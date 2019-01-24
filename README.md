@@ -1,3 +1,3 @@
 # Explore
 
-#Credit: Jonas Schmedtmann
+## Credit: Jonas Schmedtmann
